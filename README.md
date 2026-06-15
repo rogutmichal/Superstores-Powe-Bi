@@ -72,9 +72,17 @@ Zysk według kategorii:
 - Wizualizacja danych
 - Formatowanie warunkowe
 - Interaktywne dashboardy
+##  Startowy dashboard
 
 <img width="1162" height="655" alt="image" src="https://github.com/user-attachments/assets/39c9d68e-ca0d-4172-8742-6d608e2f57cc" />
+
+##  Dane dla centralnej Azji w latach 2012-2013
+
 <img width="1157" height="647" alt="image" src="https://github.com/user-attachments/assets/8e1b47b6-360f-43aa-958d-52eb1d6216be" />
+
+##  Formatowanie warunkowe w tabeli produktów
+
+<img width="521" height="172" alt="image" src="https://github.com/user-attachments/assets/2125b57d-ad46-4680-9af4-dc1e47268894" />
 
 
 
