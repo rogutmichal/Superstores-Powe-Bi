@@ -3,7 +3,7 @@
 
 ## Opis projektu
 
-Projekt przedstawia interaktywny dashboard w Power BI, który analizuje globalne dane sprzedażowe, rentowność oraz kluczowe wskaźniki biznesowe na podstawie danych transakcyjnych (podobnych do datasetu *Superstore*).
+Projekt przedstawia interaktywny dashboard w Power BI, w ktorym dokanoywana jest analiza globalnych danych sprzedażowe oraz kluczowe wskaźniki biznesowe na podstawie danych transakcyjnych. W analizie wykorzystane dane z zasóbu stworzonego przez Data Science Lovers:  https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data/data
 
 Dashboard umożliwia analizę wyników w przekroju czasu, regionów, kategorii produktów oraz indywidualnych produktów.
 
@@ -49,15 +49,15 @@ Celem projektu było:
 
 Zysk według kategorii:
 
--  Technologia
--  Materiały biurowe
--  Meble
+-  Technology
+-  Furniture
+-  Office supplies
 
 ---
 
 ###  Najlepsze produkty
 
-- Lista 10–15 najbardziej rentownych produktów
+- Lista najbardziej rentownych produktów
 - Porównanie sprzedaży i zysku
 - Formatowanie warunkowe (zielony/czerwony dla zysku)
 
